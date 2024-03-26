@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim zidan</h1>
-<h3 align="center">hi iam Karim Zidan Ambitious Junior Software Developer Seeking Growth Opportunities</h3>
+<h3 align="center"> Ambitious Junior Software Developer Seeking Growth Opportunities</h3>
 
 - 🌱 I’m currently learning **Software Testing**
 
