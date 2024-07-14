@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim zidan</h1>
 <h3 align="center"> Ambitious Junior Software Developer Seeking Growth Opportunities</h3>
 
-- 🌱 I’m currently learning **Andriod for Automotive industry **
+- 🌱 I’m currently learning  **Andriod for Automotive industry**
 
 - 📫 How to reach me **Karimzidan7474@gmail.com**
 
